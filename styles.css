@@ -50,7 +50,7 @@ body {
   align-items: center;
 }
 
-.nav-icon {
+.icon {
   width: 1.4em;
   margin: 10px 30px 20px 20px;
 }
@@ -68,3 +68,11 @@ a {
 .nav-end {
   margin-top: 10vh;
 }
+
+.main{
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+}
+
+
